@@ -13,5 +13,5 @@ def team():
     if girdi==49:
         print('Takiminiz Mevlananin Memleketi')
     elif girdi==43 :
-        print('Takiminiz Basaksehir')
+        print('Takiminiz Basaksehir!')
 print(team())
